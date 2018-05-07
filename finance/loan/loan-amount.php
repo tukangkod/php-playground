@@ -1,3 +1,4 @@
+<?php
 $loanPct = 0.9;
 $propValue = 500000;
 $periodYear = 30;
